@@ -1,5 +1,6 @@
 ## Hey there stalker 👀, I'm Mohamed Nouaoui a full-stack developper
-teshere
+So for my profession , when i code i rely on
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!--
 **MOHAMEDNOUAOUI/MOHAMEDNOUAOUI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

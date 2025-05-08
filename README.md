@@ -1,4 +1,4 @@
-## Hi there 👋 As you can see on ur left  👀, I'M MOHAMED NOUAOUI
+## Hi there 👋 As you can see on ur left  👀, my name is " Mohamed Nouaoui "
 teshere
 
 <!--

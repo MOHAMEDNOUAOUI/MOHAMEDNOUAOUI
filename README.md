@@ -3,7 +3,7 @@ So for my profession , when i code
 ### i rely on  
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,angular,nextjs,flutter,lua,python,java,spring,mongodb,mysql,postgresql,git,github,docker,jenkins,figma,photoshop)](https://skillicons.dev)  
 ### On a daily basis i use
-[![Daily Basis](https://skillicons.dev/icons?i=java,spring,angular,git,github,docker,figma,photoshop)](https://skillicons.dev)  
+[![Daily Basis](https://skillicons.dev/icons?i=java,spring,ts,angular,git,github,docker,figma,photoshop)](https://skillicons.dev)  
 
 <!--
 **MOHAMEDNOUAOUI/MOHAMEDNOUAOUI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

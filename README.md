@@ -1,7 +1,7 @@
 ## Hey there stalker 👀, I'm Mohamed Nouaoui a full-stack developper
 So for my profession , when i code 
 ### i rely on  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,flutter,lua,python,mongodb,mysql,postgresql,git,github,docker,figma,photoshop)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,flutter,lua,python,mongodb,mysql,postgresql,git,github,docker,jenkins,figma,photoshop)](https://skillicons.dev)  
 ### On a daily basis i use
 [![Daily Basis](https://skillicons.dev/icons?i=git,github,docker,figma,photoshop)](https://skillicons.dev)  
 

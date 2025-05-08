@@ -1,6 +1,6 @@
 ## Hey there stalker 👀, I'm Mohamed Nouaoui a full-stack developper
 So for my profession , when i code 
-### i rely on  
+### I rely on  
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,angular,nextjs,flutter,lua,python,java,spring,mongodb,mysql,postgresql,git,github,docker,jenkins,figma,photoshop)](https://skillicons.dev)  
 ### On a daily basis i use
 [![Daily Basis](https://skillicons.dev/icons?i=java,spring,ts,angular,git,github,docker,figma,photoshop)](https://skillicons.dev)  

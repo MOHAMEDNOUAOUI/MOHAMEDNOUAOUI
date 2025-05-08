@@ -1,4 +1,4 @@
-## Hi there stalker 👀, I'm Mohamed Nouaoui , a Full Stack developper
+## Hey there stalker 👀, I'm Mohamed Nouaoui a full-stack developper
 teshere
 
 <!--

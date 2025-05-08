@@ -1,4 +1,4 @@
-## Hi there 👋 As you can see on ur left  👀, my name is " Mohamed Nouaoui "
+## Hi there stalker 👀, I'm Mohamed Nouaoui , a Full Stack developper
 teshere
 
 <!--

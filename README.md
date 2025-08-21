@@ -1,4 +1,4 @@
-## Hey there stalker 👀, I'm Mohamed Nouaoui a full-stack developper
+## Hey there stalker 👀
 <!--
 ###  When i code ,I rely on  
 

@@ -61,10 +61,6 @@ I'm a Full-Stack Web Developer focused on building robust, production-ready appl
 
 **🔗 Tether — Lost & Found Platform**
 An application designed to help reconnect people with their lost belongings.
-*(Add a short description, tech stack used, and link once it's ready to share.)*
-
-> Want more projects listed here? Just send me the repo names/links and I'll add them with descriptions.
-
 ---
 
 ### GitHub Stats
